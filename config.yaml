@@ -1,0 +1,10 @@
+path: c:/Workspace/YOLO_for_mines/data
+train: images/train
+test: images/test
+val: images/val
+# valid: (validation dataset folder path)
+
+# Class names 
+names: 
+  0: mine
+  1: explosion

@@ -1,0 +1,11 @@
+runs/*
+data/images/*
+yolov8n.pt
+yolov8s.pt
+.venv/*
+explosion/*
+env/*
+videos/*
+output/*
+get-pip.py
+test.py
